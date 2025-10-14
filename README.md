@@ -2,7 +2,7 @@
 <h1>Hi There, I'm Milton <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 👮 I’m currently working in Systems Engineering at CMM
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 BSc in Computer Engineering
 - ⚡ I have interests in Artificial Intelligence, Machine Learning, Web programming and Automation
 
 ## Skill Set :muscle:
